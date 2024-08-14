@@ -1,4 +1,4 @@
-![MasterHead](https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg)]
+![MasterHead](https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif)]
 <h1 align="center">Hi 👋, I'm Elias Chane</h1>
 <h3 align="center">Full-Stack Developer & Machine Learning Enthusiast</h3>
 
