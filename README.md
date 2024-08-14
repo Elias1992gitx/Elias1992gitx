@@ -1,8 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif)]
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Elias Chane</h1>
 <h3 align="center">Full-Stack Developer & Machine Learning Enthusiast</h3>
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elias1992gitx&label=Profile%20views&color=0e75b6&style=flat" alt="elias1992gitx" /> </p>
