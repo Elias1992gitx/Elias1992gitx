@@ -10,8 +10,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif">
-
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **ReactJS, NodeJS, Python, Java**
